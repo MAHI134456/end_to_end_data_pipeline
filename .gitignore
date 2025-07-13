@@ -1,0 +1,8 @@
+# ignoring python environment
+.env
+#ignoring cache
+__pycache__/
+#ignoring python files
+*.pyc
+#ignoring docker compose override
+docker-compose.override.yml 
