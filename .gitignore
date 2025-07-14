@@ -1,5 +1,5 @@
 # ignoring python environment
-venv
+venv/
 #ignoring cache
 __pycache__/
 #ignoring python files
