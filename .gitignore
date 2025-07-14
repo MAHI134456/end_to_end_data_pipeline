@@ -1,5 +1,6 @@
 # ignoring python environment
 venv/
+pipeline_env/
 #ignoring cache
 __pycache__/
 #ignoring python files
