@@ -2,6 +2,9 @@
 venv/
 #ignoring cache
 __pycache__/
+# ignoreing the data 
+data/
+
 #ignoring python files
 *.pyc
 #ignoring docker compose override
